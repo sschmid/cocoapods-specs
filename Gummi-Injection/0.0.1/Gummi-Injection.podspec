@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Gummi Injection"
+  s.name         = "Gummi-Injection"
   s.version      = "0.0.1"
   s.summary      = "A lightweight dependency injection framework for Objective-C."
   s.author       = { "Simon Schmid" => "mail@sschmid.com" }
