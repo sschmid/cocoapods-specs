@@ -7,4 +7,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/sschmid/Gummi-Injection.git", :tag => "0.2.0" }
   s.source_files = "Gummi-Injection/Classes/**/*.{h,m}"
   s.requires_arc = true
+  s.dependency     'Gummi-Reflection', '~> 0.0'
 end
